@@ -1,0 +1,60 @@
+<resources>
+    <string name="visualizar_url">Visualizar URL do servidor</string>
+    <string name="nova_url">Nova URL</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="atualizar_url_servidor">Atualizar URL do servidor</string>
+    <string name="sair">Sair</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="app_name">GreeningU</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- login -->
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar-se</string>
+
+    <string name="title_activity_registro">Cadastrar</string>
+
+    <string-array name="sexo">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">GreeningU</string>
+    <string name="title_activity_lista_comunidades">Comunidades disponíveis</string>
+    <string name="title_activity_detalhes_comunidade">Detalhes da comunidade</string>
+    <string name="title_activity_detalhes_usuario">Detalhes do usuario</string>
+
+    <!-- Detalhes comunidade -->
+    <string name="participar">Participar</string>
+
+
+
+    <!-- Home -->
+    <string name="nova_postagem">Nova Postagem</string>
+    <string name="titulo_postagem">Título da postagem</string>
+    <string name="descricao_postagem">Descrição</string>
+    <string name="selecionar_imagem">Selecionar Imagem...</string>
+    <string name="title_activity_teste_img">TesteImgActivity</string>
+    <string name="title_activity_atualizar_url_servidor">AtualizarUrlServidorActivity</string>
+    <string name="voce_ja_fez">Você já fez</string>
+    <string name="postagem_s">postagem(s)</string>
+    <string name="pontuacao">Pontuação</string>
+    <string name="bem_vindo">Bem vindo</string>
+    <string name="bem_vinda">Bem vinda</string>
+
+    <string name="title_activity_comentario">Comentario</string>
+    <string name="title_activity_enviar_comentario">Enviar Comentario</string>
+
+    <!-- Menus-->
+    <string name="menu_user">Informações do usuário</string>
+    <string name="menu_community">Informações da comunidade</string>
+    <string name="title_activity_nova_postagem">Nova postagem</string>
+    <string name="title_activity_activity_lista_postagens">Lista de Postagens</string>
+    <string name="title_activity_detalhes_postagem">Detalhes da postagem</string>
+
+    <string name="votar">Votar</string>
+</resources>

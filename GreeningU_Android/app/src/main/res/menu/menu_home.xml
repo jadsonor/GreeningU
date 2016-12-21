@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.greeningu.HomeActivity">
+
+
+    <item android:id="@+id/menu_listar_postagens"
+        android:title="Listar Postagens"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_infocomu"
+        android:title="@string/menu_community"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/menu_nova_postagem"
+        android:title="Nova postagem"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menu_comentario"
+        android:title="Comentario"
+        app:showAsAction="never"/>
+
+</menu>

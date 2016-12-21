@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-2bf097e0ca4d866cfae7fa75ba94460f78406a9b.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-c2359ae99b48f58a46d7adfa0e15a7711f78d1a4.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-56a04c1f26d6396844937df27e713ec24e6c0526.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-1aa5c9f9f4369afb82caff073a574789feb36b88.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-867e877d9ed4e35b5e445c3d219538bdf3170cd3.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-215577693d099959efc8fbe28308dfbe5e6ac069.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-d898be93025322e155856ee213cb689216109a56.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-3c69ea0b1d6ce3fd076f6d4fd578992155585810.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-57046cc5f7198ebf8f9e4d2823bf92a6b28fd993.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-ba445947bb452c2d31e776655da0cf7589739f6a.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-27486771a589851214ab85dc20ca0074826aafa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jadson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-26224eef91f75282f83cd42f84a333583e421c1a.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-66554956695ce5015a6484e68a40f6786246f5ee.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-1b536c57dacf4cb750d23d1ea885c9c1da831e5d.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-c226d42a838f1033d325747d203157e86c472d7f.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-fc2f4b15e85d970eda90eb802f566c01caa8bcf0.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-15b189fc8a75ca58491ca48ef573092288251bdd.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-80210f837c1e2ed9408f6e47f51ccdc07a067674.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-bbe6da0a45917eb9cdcd5f49083e5027f5b9b9d5.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-beecee475a258ad193f5eefd8d1d551774d92607.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jadson\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\gson-2.3.1-dbfe526f8a193d866b57d3857926f06857120db4.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-f6d365bd5acd3360a2a3b3d5aff8b7ec40db3014.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-c9042f849722f846c622aad52726e2b8fa6987ee.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-4fd8181cfabc039d6f57442fbf4672b76f433679.jar" />
+    </item>
+    <item
+        jar="C:\AndroidGrenningUsv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\AndroidGrenningUsv\app\build\intermediates\pre-dexed\debug\classes-063be12eed9819759f63e8357d02bdfb3814f0b9.jar" />
+    </item>
+
+</items>
